@@ -872,6 +872,9 @@ section#screens header h1:after {
 section#screens .slider div img {
   border: 2px solid #e5e5e5;
 }
+.squirrel_image{
+  height:400px;
+}
 section#screens .slider div h4 {
   color: #999999;
 }
