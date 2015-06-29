@@ -710,21 +710,21 @@ form textarea.form-control {
   }
 }
 header {
-  background: #66cc99;
+  background: #00BFFF;
   /* Old browsers */
-  background: -moz-linear-gradient(-45deg, #66cc99 0%, #339999 100%);
+  background: -moz-linear-gradient(-45deg, #00BFFF 0%, #339999 100%);
   /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #66cc99), color-stop(100%, #339999));
+  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #00BFFF), color-stop(100%, #339999));
   /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(-45deg, #66cc99 0%, #339999 100%);
+  background: -webkit-linear-gradient(-45deg, #00BFFF 0%, #339999 100%);
   /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(-45deg, #66cc99 0%, #339999 100%);
+  background: -o-linear-gradient(-45deg, #00BFFF 0%, #339999 100%);
   /* Opera 11.10+ */
-  background: -ms-linear-gradient(-45deg, #66cc99 0%, #339999 100%);
+  background: -ms-linear-gradient(-45deg, #00BFFF 0%, #339999 100%);
   /* IE10+ */
-  background: linear-gradient(-45deg, #66cc99 0%, #339999 100%);
+  background: linear-gradient(-45deg, #00BFFF 0%, #339999 100%);
   /* W3C */
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#66cc99, endColorstr=#339999, GradientType=1);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#00BFFF, endColorstr=#339999, GradientType=1);
   /* IE6-9 fallback on horizontal gradient */
 }
 header .navbar-default ul.navbar-nav li a {
@@ -798,42 +798,42 @@ header .navbar-default.scrolled .navbar-brand {
   background: #339999;
 }
 section .section-heading .divider:after {
-  background: #66cc99;
+  background: #00BFFF;
 }
 section#about .about-item i.fa {
-  border: 2px solid #66cc99;
-  color: #66cc99;
+  border: 2px solid #00BFFF;
+  color: #00BFFF;
 }
 section#about .about-item:hover i.fa {
   color: #ffffff;
-  background: #66cc99;
+  background: #00BFFF;
 }
 section#about .about-item:hover h3 {
-  color: #66cc99;
+  color: #00BFFF;
 }
 section#features {
   background: #f6f6f6;
 }
 section#features header h1:after {
-  background: #66cc99;
+  background: #00BFFF;
 }
 section#features .media i.fa {
-  border: 2px solid #66cc99;
-  color: #66cc99;
+  border: 2px solid #00BFFF;
+  color: #00BFFF;
 }
 section#features .media:hover i.fa {
   color: #ffffff;
-  background: #66cc99;
+  background: #00BFFF;
 }
 section#features .media:hover h3 {
-  color: #66cc99;
+  color: #00BFFF;
 }
 section#features .media.active i.fa {
   color: #ffffff;
-  background: #66cc99;
+  background: #00BFFF;
 }
 section#features .media.active .media-heading {
-  color: #66cc99;
+  color: #00BFFF;
 }
 section#reviews {
   background: url("../img/eco/bk-eco.jpg");
@@ -851,10 +851,10 @@ section#reviews .review-filtering .review .review-comment {
   background: #ffffff;
 }
 section#reviews .review-filtering .review .review-comment h3 {
-  color: #66cc99;
+  color: #00BFFF;
 }
 section#reviews .review-filtering .review .review-comment p span i {
-  color: #66cc99;
+  color: #00BFFF;
 }
 section#reviews .review-filtering .review .review-comment:after {
   border-right-color: #ffffff;
@@ -864,10 +864,10 @@ section#reviews .review-filtering .slick-dots li button {
   border: 2px solid #ffffff;
 }
 section#reviews .review-filtering .slick-dots li.slick-active button {
-  background: #66cc99;
+  background: #00BFFF;
 }
 section#screens header h1:after {
-  background: #66cc99;
+  background: #00BFFF;
 }
 section#screens .slider div img {
   border: 2px solid #e5e5e5;
@@ -882,7 +882,7 @@ section#screens .slider .slick-dots li button {
   background: #999999;
 }
 section#screens .slider .slick-dots li.slick-active button {
-  background: #66cc99;
+  background: #00BFFF;
 }
 section#screens .filter a {
   border: 2px solid #cccccc;
@@ -890,20 +890,20 @@ section#screens .filter a {
 }
 section#screens .filter a:hover {
   color: #ffffff;
-  background: #66cc99;
-  border-color: #66cc99;
+  background: #00BFFF;
+  border-color: #00BFFF;
 }
 section#screens .filter a.active {
   color: #ffffff;
-  background: #66cc99;
-  border-color: #66cc99;
+  background: #00BFFF;
+  border-color: #00BFFF;
 }
 /* demo video Section */
 section#demo {
   background: #f6f6f6;
 }
 section#demo header h1:after {
-  background: #66cc99;
+  background: #00BFFF;
 }
 /* Get app Section */
 section#getApp {
@@ -930,43 +930,43 @@ section#getApp .platforms .media:hover {
 }
 section#getApp .platforms .media:hover a i,
 section#getApp .platforms .media:hover a div.media-body {
-  color: #66cc99;
+  color: #00BFFF;
 }
 /* support section */
 section#support header h1:after {
-  background: #66cc99;
+  background: #00BFFF;
 }
 section#support .media i.fa {
-  border: 2px solid #66cc99;
-  color: #66cc99;
+  border: 2px solid #00BFFF;
+  color: #00BFFF;
 }
 section#support .media a {
-  color: #66cc99;
+  color: #00BFFF;
 }
 section#support .media:hover i.fa {
   color: #ffffff;
-  background: #66cc99;
+  background: #00BFFF;
 }
 section#support .media:hover h3 {
-  color: #66cc99;
+  color: #00BFFF;
 }
 /* footer section */
 footer {
-  background: #66cc99;
+  background: #00BFFF;
   /* Old browsers */
-  background: -moz-linear-gradient(-45deg, #66cc99 0%, #339999 100%);
+  background: -moz-linear-gradient(-45deg, #00BFFF 0%, #339999 100%);
   /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #66cc99), color-stop(100%, #339999));
+  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #00BFFF), color-stop(100%, #339999));
   /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(-45deg, #66cc99 0%, #339999 100%);
+  background: -webkit-linear-gradient(-45deg, #00BFFF 0%, #339999 100%);
   /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(-45deg, #66cc99 0%, #339999 100%);
+  background: -o-linear-gradient(-45deg, #00BFFF 0%, #339999 100%);
   /* Opera 11.10+ */
-  background: -ms-linear-gradient(-45deg, #66cc99 0%, #339999 100%);
+  background: -ms-linear-gradient(-45deg, #00BFFF 0%, #339999 100%);
   /* IE10+ */
-  background: linear-gradient(-45deg, #66cc99 0%, #339999 100%);
+  background: linear-gradient(-45deg, #00BFFF 0%, #339999 100%);
   /* W3C */
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#66cc99, endColorstr=#339999, GradientType=1);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#00BFFF, endColorstr=#339999, GradientType=1);
   /* IE6-9 fallback on horizontal gradient */
 }
 footer .social a {
@@ -979,7 +979,7 @@ footer .social a:hover {
   background: #ffffff;
 }
 footer .social a:hover i {
-  color: #66cc99;
+  color: #00BFFF;
 }
 footer .rights {
   color: #ffffff;
@@ -999,8 +999,8 @@ footer .rights a {
 }
 .btn.btn-primary:hover {
   color: #ffffff!important;
-  background: #66cc99;
-  border-color: #66cc99;
+  background: #00BFFF;
+  border-color: #00BFFF;
 }
 .btn.btn-primary.inverse {
   color: #ffffff;
@@ -1008,8 +1008,8 @@ footer .rights a {
 }
 .btn.btn-primary.inverse:hover {
   color: #ffffff;
-  background: #66cc99;
-  border-color: #66cc99;
+  background: #00BFFF;
+  border-color: #00BFFF;
 }
 .btn.btn-default {
   background: #ffffff;
@@ -1034,7 +1034,7 @@ footer .rights a {
   color: #339999;
 }
 form .form-control:focus {
-  border-color: #66cc99;
+  border-color: #00BFFF;
   color: #999999;
 }
 @media screen and (min-width: 450px) {
@@ -1058,7 +1058,7 @@ form .form-control:focus {
     display: none;
   }
   header .navbar-default ul.navbar-nav li a:hover {
-    color: #66cc99;
+    color: #00BFFF;
   }
   header .navbar-default .navbar-collapse {
     background: #339999;
@@ -1070,7 +1070,7 @@ form .form-control:focus {
     color: #ffffff;
   }
   header .navbar-default.scrolled ul.navbar-nav li a:hover {
-    color: #66cc99;
+    color: #00BFFF;
   }
 }
 
