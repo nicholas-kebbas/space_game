@@ -1073,13 +1073,13 @@ form .form-control:focus {
     display: none;
   }
   header .navbar-default ul.navbar-nav li a:hover {
-    color: #00BFFF;
+    color: #FF7F00;
   }
   header .navbar-default .navbar-collapse {
-    background: #339999;
+    background: #00BFFF;
   }
   header .navbar-default.scrolled {
-    background: #339999;
+    background: #00BFFF;
   }
   header .navbar-default.scrolled ul.navbar-nav li a {
     color: #ffffff;
