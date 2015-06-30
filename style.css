@@ -783,16 +783,16 @@ header .navbar-default ul.navbar-nav li a:hover {
   transition: all 0.25s ease-in-out;
 }
 header .navbar-default.scrolled {
-  border-bottom: 3px solid #339999;
+  border-bottom: 3px solid #00BFFF;
 }
 header .navbar-default.scrolled ul.navbar-nav li a {
-  color: #339999;
+  color: #00BFFF;
 }
 header .navbar-default.scrolled ul.navbar-nav li a:hover {
   color: #FF7F00;
 }
 header .navbar-default.scrolled ul.navbar-nav li a:hover:after {
-  background: #339999;
+  background: #00BFFF;
 }
 header .navbar-default.scrolled .navbar-brand {
   background: #339999;
