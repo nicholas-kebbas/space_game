@@ -146,6 +146,7 @@ header .navbar-default.scrolled ul.navbar-nav {
 }
 #sub-headline{
   color: #FF7F00;
+  padding-top:100px;
   font-size: 48px;
 }
 .scrollpoint {
