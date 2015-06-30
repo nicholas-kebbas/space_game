@@ -18,6 +18,7 @@
 body {
   font-family: 'Lato', Arial;
   color: #666666;
+  margin-top:-20px;
   -webkit-font-smoothing: antialiased;
 }
 a {
