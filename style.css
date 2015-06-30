@@ -1087,6 +1087,14 @@ form .form-control:focus {
   header .navbar-default.scrolled ul.navbar-nav li a:hover {
     color: #00BFFF;
   }
+  .features_image{
+    width:100%;
+    float:none;
+    text-align:center;
+  }
+  section#features .media.feature {
+  margin-left: 25%!important;
+  }
 }
 
 
