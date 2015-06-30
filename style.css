@@ -1043,10 +1043,10 @@ footer .rights a {
   /* W3C */
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffff, endColorstr=#cccccc, GradientType=1);
   /* IE6-9 fallback on horizontal gradient */
-  color: #339999;
+  color: #00BFFF;
 }
 .btn.btn-default:hover {
-  color: #339999;
+  color: #FF7F00;
 }
 form .form-control:focus {
   border-color: #00BFFF;
