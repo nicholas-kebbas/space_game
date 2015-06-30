@@ -181,7 +181,7 @@ header .navbar-default.scrolled ul.navbar-nav {
 }
 .section-heading.inverse h1,
 .section-heading.inverse p {
-  color: #ffffff;
+   color: #FF7F00;
 }
 .section-heading.inverse .divider:after {
   background: #ffffff;
@@ -789,7 +789,7 @@ header .navbar-default.scrolled ul.navbar-nav li a {
   color: #339999;
 }
 header .navbar-default.scrolled ul.navbar-nav li a:hover {
-  color: #339999;
+  color: #FF7F00;
 }
 header .navbar-default.scrolled ul.navbar-nav li a:hover:after {
   background: #339999;
@@ -907,7 +907,7 @@ section#demo header h1:after {
 }
 /* Get app Section */
 section#getApp {
-  background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/192751/bk-eco.jpg");
+  background: #fff;
 }
 section#getApp header {
   color: #ffffff;
