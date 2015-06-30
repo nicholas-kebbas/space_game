@@ -140,9 +140,11 @@ header .navbar-default.scrolled ul.navbar-nav {
   padding-top: 15px;
 }
 .headline{
-  color: #FF7F00;
+  color: #FFF;
   padding-top: 200px;
   font-size: 55px;
+  width:100%;
+  text-align:center;
 }
 #sub-headline{
   color: #FF7F00;
